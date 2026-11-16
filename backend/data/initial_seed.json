@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "id": "entry-sunbird",
+      "title": "Crimson Sunbird in Morning Light",
+      "scientificName": "Aethopyga siparaja",
+      "category": "Birds",
+      "location": "Singapore Botanic Gardens",
+      "date": "2026-10-22",
+      "imageUrl": "https://images.unsplash.com/photo-1552728089-57bdde30beb3?auto=format&fit=crop&w=900&q=80",
+      "weatherCondition": "Clear, 28°C, calm breeze",
+      "description": "Spotted male bird hovering gracefully to feed on nectar from ginger flowers near Symphony Lake. Vivid iridescent scarlet breast feathers and metallic blue forehead shone brightly in early tropical sun.",
+      "createdAt": 1792696599982
+    },
+    {
+      "id": "entry-staghorn",
+      "title": "Massive Crown of Staghorn Fern",
+      "scientificName": "Platycerium coronarium",
+      "category": "Plants",
+      "location": "MacRitchie Reservoir & Central Catchment",
+      "date": "2026-10-19",
+      "imageUrl": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&w=900&q=80",
+      "weatherCondition": "Humid, 29°C, post-morning rain",
+      "description": "Perched 12 metres up on a mature Shorea trunk along Chemperai boardwalk. The sterile shield fronds have formed a vast basket trapping falling leaves to generate humus for root nourishment.",
+      "createdAt": 1792437399982
+    },
+    {
+      "id": "entry-monitor",
+      "title": "Malayan Water Monitor Basking",
+      "scientificName": "Varanus salvator",
+      "category": "Wildlife",
+      "location": "Sungei Buloh Wetland Reserve",
+      "date": "2026-10-14",
+      "imageUrl": "https://images.unsplash.com/photo-1544979590-37e9b47eb705?auto=format&fit=crop&w=900&q=80",
+      "weatherCondition": "Overcast, 30°C, low tide",
+      "description": "Large individual (approx. 1.7m) resting on exposed mangrove mudbank near Main Bridge. Sluggish basking behaviour before sliding smoothly into brackish estuarine water to hunt fiddler crabs.",
+      "createdAt": 1792005399982
+    },
+    {
+      "id": "entry-butterfly",
+      "title": "Common Birdwing Butterfly on Lantana",
+      "scientificName": "Troides helena cerberus",
+      "category": "Insects",
+      "location": "Dairy Farm Nature Park",
+      "date": "2026-10-08",
+      "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&w=900&q=80",
+      "weatherCondition": "Sunny, 31°C",
+      "description": "Magnificent wingspan fluttering slowly along the Wallace Education Trail edge. The golden yellow hindwings lit up dramatically against dark primary forest undergrowth.",
+      "createdAt": 1791486999982
+    }
+  ],
+  "saved": [
+    "botanic-gardens",
+    "macritchie-reservoir",
+    "sungei-buloh"
+  ]
+}

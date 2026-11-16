@@ -1,0 +1,661 @@
+[
+  {
+    "id": "botanic-gardens",
+    "name": "Singapore Botanic Gardens",
+    "category": "Gardens",
+    "region": "Central",
+    "coordinates": [
+      1.3138,
+      103.8159
+    ],
+    "shortDescription": "Singapore’s first UNESCO World Heritage Site with 165+ years of botanical heritage.",
+    "description": "Founded in 1859, the Singapore Botanic Gardens is a 82-hectare tropical garden and the only tropical botanical garden on the UNESCO World Heritage list. It encompasses the historic National Orchid Garden, an ancient 6-hectare primary rainforest remnant older than the city itself, and the Keppel Discovery Wetlands in the Learning Forest.",
+    "amenities": [
+      "Wheelchair Accessible",
+      "Restrooms",
+      "Visitor Centre",
+      "Guided Walks",
+      "Dining & Cafes",
+      "Drinking Fountains",
+      "Shelters"
+    ],
+    "accessibilityInfo": "Smooth paved pathways throughout the main grounds. Wheelchair rentals are available at Tanglin, Nassim, and Bukit Timah visitor services. Tactile ground surface indicators on key heritage trails.",
+    "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?auto=format&fit=crop&w=1200&q=80",
+    "openingHours": "5:00 AM – 12:00 AM daily",
+    "directionsUrl": "https://maps.google.com/?q=Singapore+Botanic+Gardens",
+    "sizeHectares": 82,
+    "highlights": [
+      "National Orchid Garden",
+      "Primary Rain Forest Trail",
+      "Swan Lake",
+      "Symphony Lake Stage"
+    ],
+    "nativeFloraFauna": [
+      "Tembusu Tree (Cyrtophyllum fragrans)",
+      "Banded Woodpecker",
+      "Plantain Squirrel",
+      "Giant Fishtail Palm"
+    ]
+  },
+  {
+    "id": "gardens-by-the-bay",
+    "name": "Gardens by the Bay",
+    "category": "Gardens",
+    "region": "South",
+    "coordinates": [
+      1.2816,
+      103.8636
+    ],
+    "shortDescription": "Futuristic botanical architecture housing over 1.5 million plants from global biomes.",
+    "description": "A 101-hectare horticultural marvel featuring the iconic Supertree Grove, the Flower Dome (the world’s largest glass greenhouse), and the misty Cloud Forest with a 35-metre tall mountain covered in lush epiphytes, bromeliads, and highland pitcher plants. Designed with integrated environmental engineering, including biomass energy co-generation and rainwater harvesting lakes.",
+    "amenities": [
+      "Wheelchair Accessible",
+      "Restrooms",
+      "Visitor Centre",
+      "Bicycle Parking",
+      "Guided Tours",
+      "Dining & Cafes",
+      "Electric Shuttle"
+    ],
+    "accessibilityInfo": "Barrier-free access across all outdoor gardens and conservatories. Elevators provide access to the Cloud Forest walkways and OCBC Skyway. Mobility scooter and stroller loans available.",
+    "imageUrl": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?auto=format&fit=crop&w=1200&q=80",
+    "openingHours": "5:00 AM – 2:00 AM (Outdoor Gardens); 9:00 AM – 9:00 PM (Conservatories)",
+    "directionsUrl": "https://maps.google.com/?q=Gardens+by+the+Bay+Singapore",
+    "sizeHectares": 101,
+    "highlights": [
+      "Cloud Forest Mist Walk",
+      "Supertree Grove",
+      "Dragonfly & Kingfisher Lakes",
+      "Heritage Gardens"
+    ],
+    "nativeFloraFauna": [
+      "Smooth-coated Otter",
+      "Collared Kingfisher",
+      "Epiphytic Orchids",
+      "Mangrove Ferns"
+    ]
+  },
+  {
+    "id": "macritchie-reservoir",
+    "name": "MacRitchie Reservoir & Central Catchment",
+    "category": "Nature Reserves",
+    "region": "Central",
+    "coordinates": [
+      1.3468,
+      103.8298
+    ],
+    "shortDescription": "Singapore’s oldest reservoir bordered by pristine primary and mature secondary rainforest.",
+    "description": "The crown jewel of Singapore’s green heart. The Central Catchment Nature Reserve covers over 2,000 hectares of forest surrounding MacRitchie Reservoir. Miles of hiking trails wind through dipterocarp forests, leading to the 250-metre free-standing TreeTop Walk suspension bridge, offering panoramic canopy views 25 metres above the forest floor.",
+    "amenities": [
+      "Restrooms",
+      "Boardwalk Trails",
+      "Kayak Rental",
+      "Shelters",
+      "Drinking Fountains",
+      "Bicycle Racks"
+    ],
+    "accessibilityInfo": "Boardwalks near the reservoir entrance (Chemperai and Prunus trails) are gently graded and barrier-free. Deep forest hiking trails (TreeTop Walk loop) feature rugged uneven terrain, tree roots, and steep stairs.",
+    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1200&q=80",
+    "openingHours": "7:00 AM – 7:00 PM daily (TreeTop Walk closed on Mondays except public holidays)",
+    "directionsUrl": "https://maps.google.com/?q=MacRitchie+Reservoir+Singapore",
+    "sizeHectares": 2000,
+    "highlights": [
+      "TreeTop Walk Suspension Bridge",
+      "Chemperai Boardwalk",
+      "Lornie Trail",
+      "Historic Bandstand"
+    ],
+    "nativeFloraFauna": [
+      "Long-tailed Macaque",
+      "Flying Lemur (Colugo)",
+      "Greater Racket-tailed Drongo",
+      "Clouded Monitor"
+    ]
+  },
+  {
+    "id": "sungei-buloh",
+    "name": "Sungei Buloh Wetland Reserve",
+    "category": "Nature Reserves",
+    "region": "North",
+    "coordinates": [
+      1.4468,
+      103.7303
+    ],
+    "shortDescription": "ASEAN Heritage Park with sprawling mangrove ecosystems and migratory shorebird roosts.",
+    "description": "Singapore’s first ASEAN Heritage Park spanning 202 hectares of mangroves, mudflats, and secondary forest. Situated along the East Asian-Australasian Flyway, it provides critical stopover feeding grounds for thousands of migratory shorebirds between September and March, alongside resident estuarine crocodiles and mudskippers.",
+    "amenities": [
+      "Restrooms",
+      "Boardwalk Trails",
+      "Bird Observation Hides",
+      "Visitor Centre",
+      "Shelters",
+      "Guided Nature Walks"
+    ],
+    "accessibilityInfo": "The Wetland Centre and Visitor Centre trails (Junior Adventure Trail and Mangrove Boardwalk) are barrier-free with ramps. The deeper Migratory Bird Trail has gravel paths and raised wooden bird-watching screens.",
+    "imageUrl": "https://images.unsplash.com/photo-1544979590-37e9b47eb705?auto=format&fit=crop&w=1200&q=80",
+    "openingHours": "7:00 AM – 7:00 PM daily",
+    "directionsUrl": "https://maps.google.com/?q=Sungei+Buloh+Wetland+Reserve",
+    "sizeHectares": 202,
+    "highlights": [
+      "Mangrove Boardwalk",
+      "Observation Pods",
+      "Mudflat Feeding Grounds",
+      "Kingfisher Bridge"
+    ],
+    "nativeFloraFauna": [
+      "Estuarine Crocodile (Crocodylus porosus)",
+      "Whimbrel",
+      "Mud Lobster",
+      "Giant Mudskipper"
+    ]
+  },
+  {
+    "id": "bukit-timah",
+    "name": "Bukit Timah Nature Reserve",
+    "category": "Nature Reserves",
+    "region": "Central",
+    "coordinates": [
+      1.3547,
+      103.7764
+    ],
+    "shortDescription": "Singapore’s highest natural hill cloaked in ancient primary tropical rainforest.",
+    "description": "Rising 163 metres above sea level, Bukit Timah contains more tree species in its 163 hectares than the entire continent of North America. An ASEAN Heritage Park, it preserves Singapore’s primary dipterocarp rainforest with towering Seraya trees, freshwater streams, and rare endemic invertebrates.",
+    "amenities": [
+      "Restrooms",
+      "Visitor Centre",
+      "Exhibition Hall",
+      "Shelters",
+      "Drinking Fountains"
+    ],
+    "accessibilityInfo": "Main Visitor Centre is wheelchair accessible. Summit Main Path is a paved steep incline (approx 15% gradient). Forest side-trails are natural dirt paths with granite rock steps.",
+    "imageUrl": "https://images.unsplash.com/photo-1511497584788-87676104235f?auto=format&fit=crop&w=1200&q=80",
+    "openingHours": "7:00 AM – 7:00 PM daily",
+    "directionsUrl": "https://maps.google.com/?q=Bukit+Timah+Nature+Reserve",
+    "sizeHectares": 163,
+    "highlights": [
+      "Bukit Timah Summit (163m)",
+      "Seraya Valley",
+      "Historic Quarry Viewpoints",
+      "Interactive Eco-Centre"
+    ],
+    "nativeFloraFauna": [
+      "Shore Seraya (Shorea curtisii)",
+      "Malayan Pangolin",
+      "Asian Fairy-bluebird",
+      "Malayan Colugo"
+    ]
+  },
+  {
+    "id": "southern-ridges",
+    "name": "The Southern Ridges & Henderson Waves",
+    "category": "Nature Trails",
+    "region": "South",
+    "coordinates": [
+      1.2825,
+      103.8158
+    ],
+    "shortDescription": "A 10-km elevated panoramic canopy trail connecting five southern coastal ridge parks.",
+    "description": "An inspiring 10-kilometre continuous green corridor linking Mount Faber Park, Telok Blangah Hill Park, HortPark, Kent Ridge Park, and Labrador Nature Reserve. Features include the Forest Walk—an elevated steel mesh walkway through canopy layers—and Henderson Waves, the highest pedestrian bridge in Singapore with sculpted timber rib structures.",
+    "amenities": [
+      "Wheelchair Accessible Sections",
+      "Restrooms",
+      "Scenic Lookouts",
+      "Shelters",
+      "Drinking Fountains",
+      "Dining & Cafes"
+    ],
+    "accessibilityInfo": "Henderson Waves and HortPark have barrier-free ramps. Portions of the elevated Forest Walk feature gentle incline grading; other links involve staircase descents into Mount Faber.",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+    "openingHours": "Open 24 hours daily (Bridge lights illuminate 7:00 PM – 7:00 AM)",
+    "directionsUrl": "https://maps.google.com/?q=Henderson+Waves+Singapore",
+    "sizeHectares": 120,
+    "highlights": [
+      "Henderson Waves Architectural Bridge",
+      "Elevated Canopy Forest Walk",
+      "Sembawang Hill Terrace",
+      "HortPark Native Plots"
+    ],
+    "nativeFloraFauna": [
+      "Brahminy Kite",
+      "Common Palm Civet",
+      "Wild Cinnamon",
+      "Pink Memecylon"
+    ]
+  },
+  {
+    "id": "fort-canning",
+    "name": "Fort Canning Park",
+    "category": "Parks",
+    "region": "Central",
+    "coordinates": [
+      1.2952,
+      103.8466
+    ],
+    "shortDescription": "Historic hilltop park steeped in 14th-century royal heritage and spice gardens.",
+    "description": "An iconic green hilltop in the centre of the civic district. Once known as Bukit Larangan (Forbidden Hill), it features 9 historical gardens including the Spice Garden, Sang Nila Utama Garden with Javanese architecture, Pancur Larangan bathing spring, and the dramatic spiral staircase tree tunnel at Fort Canning Tree Tunnel.",
+    "amenities": [
+      "Restrooms",
+      "Heritage Signage",
+      "Visitor Gallery",
+      "Escalators from MRT",
+      "Event Lawns",
+      "Shelters"
+    ],
+    "accessibilityInfo": "Covered escalators and elevators connect directly from Fort Canning MRT station (DT20) to the upper lawns. Smooth paved paths link the key gardens.",
+    "imageUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=1200&q=80",
+    "openingHours": "Open 24 hours daily (Gardens illuminated at night)",
+    "directionsUrl": "https://maps.google.com/?q=Fort+Canning+Park+Singapore",
+    "sizeHectares": 18,
+    "highlights": [
+      "Fort Canning Tree Tunnel",
+      "Sang Nila Utama Garden",
+      "Spice Garden",
+      "Raffles Garden"
+    ],
+    "nativeFloraFauna": [
+      "Nutmeg Tree (Myristica fragrans)",
+      "Clove",
+      "White-bellied Sea Eagle",
+      "Oriental Pied Hornbill"
+    ]
+  },
+  {
+    "id": "jurong-lake-gardens",
+    "name": "Jurong Lake Gardens",
+    "category": "Parks",
+    "region": "West",
+    "coordinates": [
+      1.3364,
+      103.7306
+    ],
+    "shortDescription": "Singapore’s national gardens in the heartlands with freshwater swamp habitats.",
+    "description": "A 90-hectare biodiversity haven sculpted around Jurong Lake. The development restored naturalized waterways, created the Rasau Walk boardwalk along freshwater swamp vegetation, restored Heron Island for wading birds, and features the poetic Grasslands habitat swaying with lalang and mission grasses.",
+    "amenities": [
+      "Wheelchair Accessible",
+      "Restrooms",
+      "Boardwalk Trails",
+      "Water Play Area",
+      "Dog Run",
+      "Bicycle Rental",
+      "Dining & Cafes"
+    ],
+    "accessibilityInfo": "Fully wheelchair and stroller accessible with wide concrete and wooden promenade pathways throughout Rasau Walk and Lakeside Field.",
+    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "openingHours": "Open 24 hours daily",
+    "directionsUrl": "https://maps.google.com/?q=Jurong+Lake+Gardens+Singapore",
+    "sizeHectares": 90,
+    "highlights": [
+      "Rasau Boardwalk",
+      "The Grasslands with Lone Tree",
+      "Heron Island Roost",
+      "Forest Ramble"
+    ],
+    "nativeFloraFauna": [
+      "Grey Heron",
+      "Little Egret",
+      "Malayan Water Monitor",
+      "Sealing Wax Palm"
+    ]
+  },
+  {
+    "id": "bishan-ang-mo-kio",
+    "name": "Bishan-Ang Mo Kio Park",
+    "category": "Parks",
+    "region": "Central",
+    "coordinates": [
+      1.3626,
+      103.8468
+    ],
+    "shortDescription": "Landmark biophilic transformation of a concrete storm canal into a living meandering river.",
+    "description": "One of the world’s most celebrated ecological engineering projects. A former 2.7-km straight concrete stormwater canal was de-concretized and transformed into a 3.2-km natural meandering river with bioengineered soil bio-retaining riverbanks, wildflower floodplains, and thriving wildlife populations.",
+    "amenities": [
+      "Wheelchair Accessible",
+      "Restrooms",
+      "Dog Run",
+      "Bicycle Paths",
+      "Playgrounds",
+      "Dining & Cafes",
+      "Shelters"
+    ],
+    "accessibilityInfo": "Entire park is gently contoured with wide asphalt and paved jogging/cycling tracks. Step-free access across all footbridges.",
+    "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
+    "openingHours": "Open 24 hours daily (River lighting until 10:00 PM)",
+    "directionsUrl": "https://maps.google.com/?q=Bishan-Ang+Mo+Kio+Park",
+    "sizeHectares": 62,
+    "highlights": [
+      "Naturalized Kallang River",
+      "Recycle Hill Viewpoint",
+      "Lotus Pond",
+      "Cleansing Biotope Wetland"
+    ],
+    "nativeFloraFauna": [
+      "Smooth-coated Otter Family",
+      "Purple Heron",
+      "Red-wattled Lapwing",
+      "Dwarf Cattail"
+    ]
+  },
+  {
+    "id": "east-coast-park",
+    "name": "East Coast Park",
+    "category": "Waterfront Green Spaces",
+    "region": "East",
+    "coordinates": [
+      1.3015,
+      103.9122
+    ],
+    "shortDescription": "15-kilometre scenic coastal park lined with Casuarina groves and sea breeze recreation.",
+    "description": "Spanning 185 hectares along Singapore’s southeastern coastline, East Coast Park is the nation’s most beloved coastal recreation haven. Casuarina, ketapang, and coconut palms provide continuous sea-front shade for cycling, birding, and coastal habitat restoration along the Straits of Singapore.",
+    "amenities": [
+      "Wheelchair Accessible",
+      "Restrooms & Showers",
+      "Bicycle & Rollerblade Rental",
+      "Campgrounds",
+      "BBQ Pits",
+      "Water Sports Centre",
+      "Dining & Hawker Stalls"
+    ],
+    "accessibilityInfo": "Entire 15-km length features dual wide paved tracks (separate pedestrian walking and cycling corridors) with ramped underpass connections.",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+    "openingHours": "Open 24 hours daily",
+    "directionsUrl": "https://maps.google.com/?q=East+Coast+Park+Singapore",
+    "sizeHectares": 185,
+    "highlights": [
+      "Bedok Jetty (fishing & sunset)",
+      "Marine Cove",
+      "Coastal PlayGrove",
+      "Raintree Cove"
+    ],
+    "nativeFloraFauna": [
+      "Sea Almond (Terminalia catappa)",
+      "Casuarina Tree",
+      "Pacific Swallow",
+      "Spotted Dove"
+    ]
+  },
+  {
+    "id": "labrador-nature-reserve",
+    "name": "Labrador Nature Reserve & Coastal Walk",
+    "category": "Nature Reserves",
+    "region": "South",
+    "coordinates": [
+      1.2667,
+      103.8021
+    ],
+    "shortDescription": "Only rocky sea cliff on mainland Singapore, harbouring rare coastal dipterocarp flora.",
+    "description": "A unique sanctuary combining historical World War II artillery remains with Singapore’s sole mainland coastal rocky cliff. The reserve houses coastal dipterocarp trees, a boardwalk across mangrove creeks, and open sea vistas facing Sentosa and passing vessels.",
+    "amenities": [
+      "Wheelchair Accessible Boardwalk",
+      "Restrooms",
+      "Coastal Walkway",
+      "Heritage WWII Trails",
+      "Shelters"
+    ],
+    "accessibilityInfo": "Berlayer Creek Boardwalk and Bukit Chermin Boardwalk are fully accessible wooden paths. The elevated hill gun emplacement trail contains stone steps.",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+    "openingHours": "7:00 AM – 7:00 PM daily (Boardwalk open 24 hours)",
+    "directionsUrl": "https://maps.google.com/?q=Labrador+Nature+Reserve+Singapore",
+    "sizeHectares": 22,
+    "highlights": [
+      "Berlayer Creek Mangroves",
+      "Dragon’s Teeth Gate Replica",
+      "Bukit Chermin Coastal Walk",
+      "WWII Machine Gun Post"
+    ],
+    "nativeFloraFauna": [
+      "Black-crowned Night Heron",
+      "Mangrove Pitta",
+      "Horseshoe Crab",
+      "Sea Hibiscus"
+    ]
+  },
+  {
+    "id": "pulau-ubin",
+    "name": "Pulau Ubin & Chek Jawa Wetlands",
+    "category": "Nature Reserves",
+    "region": "East",
+    "coordinates": [
+      1.4124,
+      103.9572
+    ],
+    "shortDescription": "Rustic island sanctuary housing six distinct intertidal and coastal ecosystems.",
+    "description": "An offshore sanctuary preserving Singapore’s 1960s rural heritage (kampong) and natural biodiversity. At its eastern tip lies Chek Jawa, an extraordinary 100-hectare wetland where six distinct ecosystems meet: coastal forest, mangroves, sand bars, seagrass lagoon, rocky shore, and coral rubble.",
+    "amenities": [
+      "Bicycle Rentals (at Jetty)",
+      "Restrooms",
+      "Boardwalk Trails",
+      "Viewing Tower (Jejawi Tower)",
+      "Visitor Information Counter"
+    ],
+    "accessibilityInfo": "Bumboat transport requires boarding step. Once on Chek Jawa, the 1.1-km coastal and mangrove boardwalk loop is step-free with anti-slip timber battens.",
+    "imageUrl": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&w=1200&q=80",
+    "openingHours": "8:30 AM – 6:00 PM (Chek Jawa Wetlands); Bumboats run 6:00 AM – 7:00 PM",
+    "directionsUrl": "https://maps.google.com/?q=Changi+Point+Ferry+Terminal+Pulau+Ubin",
+    "sizeHectares": 1020,
+    "highlights": [
+      "Chek Jawa Coastal Boardwalk",
+      "Jejawi Observation Tower (20m)",
+      "Butterfly Hill",
+      "Pekan Quarry Viewpoint"
+    ],
+    "nativeFloraFauna": [
+      "Oriental Pied Hornbill",
+      "Fiddler Crab",
+      "Wild Boar (Sus scrofa vittatus)",
+      "Carpet Anemone"
+    ]
+  },
+  {
+    "id": "thomson-nature-park",
+    "name": "Thomson Nature Park",
+    "category": "Nature Trails",
+    "region": "Central",
+    "coordinates": [
+      1.3789,
+      103.8291
+    ],
+    "shortDescription": "Buffer park conserving the ruins of a former Hainan village amidst dense forest.",
+    "description": "Opened in 2019, Thomson Nature Park acts as a vital ecological buffer for the Central Catchment Nature Reserve. It provides refuge for the critically endangered Raffles’ Banded Langur monkey. Five heritage trails wind past conserved stone ruins of a 1930s Hainan village engulfed by strangler figs.",
+    "amenities": [
+      "Restrooms",
+      "Interpretive Heritage Boards",
+      "Shelters",
+      "Drinking Fountains",
+      "Bicycle Racks"
+    ],
+    "accessibilityInfo": "Stream and Ferns Trail features well-maintained raised boardwalks with ramp access from the main entrance pavilion. Ruins Trail has stabilized natural ground paths.",
+    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1200&q=80",
+    "openingHours": "7:00 AM – 7:00 PM daily",
+    "directionsUrl": "https://maps.google.com/?q=Thomson+Nature+Park+Singapore",
+    "sizeHectares": 50,
+    "highlights": [
+      "Conserved Hainan Village Ruins",
+      "Stream and Ferns Boardwalk",
+      "Langur Canopy Crossing Canopy Ropes"
+    ],
+    "nativeFloraFauna": [
+      "Raffles’ Banded Langur (Presbytis femoralis)",
+      "Sunda Pangolin",
+      "Lesser Mousedeer",
+      "Strangler Fig"
+    ]
+  },
+  {
+    "id": "rail-corridor",
+    "name": "The Rail Corridor (Green Corridor)",
+    "category": "Nature Trails",
+    "region": "Central",
+    "coordinates": [
+      1.3503,
+      103.7761
+    ],
+    "shortDescription": "24-kilometre continuous ecological green spine spanning the length of Singapore.",
+    "description": "A 24-km linear public green spine reclaimed along the former Keretapi Tanah Melayu (KTM) railway track. Connecting Woodlands in the north to Tanjong Pagar in the south, the corridor links vital habitats, preserves heritage truss bridges, and features dark-sky sensitive lighting to safeguard nocturnal wildlife.",
+    "amenities": [
+      "Restrooms (at access nodes)",
+      "Heritage Railway Bridges",
+      "Bicycle Accessible Path",
+      "Shelters",
+      "Drinking Fountains"
+    ],
+    "accessibilityInfo": "Major restored sections (Central and South) feature porous naturalistic gravel paving with barrier-free ramp access at Bukit Timah Railway Station, King Albert Park, and Holland Road.",
+    "imageUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=1200&q=80",
+    "openingHours": "Open 24 hours daily (Certain sensitive nature stretches are unlit at night to protect wildlife)",
+    "directionsUrl": "https://maps.google.com/?q=Bukit+Timah+Railway+Station+Rail+Corridor",
+    "sizeHectares": 100,
+    "highlights": [
+      "Restored Bukit Timah Railway Station",
+      "Historic Steel Truss Bridges",
+      "Clementi Forest Vistas",
+      "Hindhede Connector"
+    ],
+    "nativeFloraFauna": [
+      "Red-crowned Barbet",
+      "Common Goldenback Woodpecker",
+      "Wild Ginger",
+      "Green Crested Lizard"
+    ]
+  },
+  {
+    "id": "coney-island",
+    "name": "Coney Island Park (Pulau Serangoon)",
+    "category": "Waterfront Green Spaces",
+    "region": "North",
+    "coordinates": [
+      1.4103,
+      103.9217
+    ],
+    "shortDescription": "Off-grid coastal island with pristine casuarina woodlands, mangrove belts, and secluded beaches.",
+    "description": "A 133-hectare ecologically sustainable island off Punggol. Operating entirely off-grid without mains electricity or municipal water, it utilizes solar energy and collected rainwater. The island features coastal forests, grasslands, mangroves, and five natural sandy beaches facing the Johor Strait.",
+    "amenities": [
+      "Eco-toilet (zero waste)",
+      "Boardwalk Trails",
+      "Bird Observation Shelters",
+      "Bicycle Tracks"
+    ],
+    "accessibilityInfo": "Main spine path is a hard-packed gravel track suitable for all-terrain strollers and sturdy wheelchairs. Boardwalk through mangrove trail is step-free.",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+    "openingHours": "7:00 AM – 7:00 PM daily (Gates locked outside opening hours)",
+    "directionsUrl": "https://maps.google.com/?q=Coney+Island+Park+Singapore",
+    "sizeHectares": 133,
+    "highlights": [
+      "Casuarina Forest Trails",
+      "Secluded Beaches A-E",
+      "Mangrove Boardwalk",
+      "Bird Watching Hides"
+    ],
+    "nativeFloraFauna": [
+      "Spotted Wood Owl",
+      "Baya Weaver",
+      "Rusty-breasted Cuckoo",
+      "Cycad Plants"
+    ]
+  },
+  {
+    "id": "chestnut-nature-park",
+    "name": "Chestnut Nature Park",
+    "category": "Nature Trails",
+    "region": "Central",
+    "coordinates": [
+      1.3725,
+      103.7779
+    ],
+    "shortDescription": "Singapore’s largest nature park with separate dedicated mountain biking and hiking trails.",
+    "description": "Covering 81 hectares across its Northern and Southern parcels, Chestnut Nature Park buffers the Central Catchment. It is Singapore’s first park to feature separate trails for hikers and mountain bikers, reducing user conflict while protecting regenerating native dipterocarp saplings.",
+    "amenities": [
+      "Restrooms & Shower Facilities",
+      "Mountain Bike Wash Station",
+      "Rental Kiosk",
+      "Shelters",
+      "Drinking Fountains"
+    ],
+    "accessibilityInfo": "Paved amenities pavilion and Chestnut Observation Tower have accessible ramps. Hiking trails are natural earth trails with leaf litter and occasional rock steps.",
+    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1200&q=80",
+    "openingHours": "7:00 AM – 7:00 PM daily",
+    "directionsUrl": "https://maps.google.com/?q=Chestnut+Nature+Park+Singapore",
+    "sizeHectares": 81,
+    "highlights": [
+      "Chestnut Observation Tower (canopy view)",
+      "Separated MTB Trails",
+      "Native Tree Re-planting Plots"
+    ],
+    "nativeFloraFauna": [
+      "Orange-bellied Flowerpecker",
+      "Straw-headed Bulbul",
+      "Banded Bullfrog",
+      "Jelutong Tree"
+    ]
+  },
+  {
+    "id": "windsor-nature-park",
+    "name": "Windsor Nature Park",
+    "category": "Nature Reserves",
+    "region": "Central",
+    "coordinates": [
+      1.3582,
+      103.8242
+    ],
+    "shortDescription": "A rare freshwater swamp forest reserve with elevated boardwalks and rare native ferns.",
+    "description": "A 75-hectare buffer park that protects freshwater swamp forest habitats. A specially designed marsh habitat and raised boardwalks allow visitors to inspect rare native flora such as the endangered Hanguana rubescens plant and discover over 50 species of dragonflies in the freshwater streams.",
+    "amenities": [
+      "Wheelchair Accessible Boardwalks",
+      "Restrooms",
+      "Visitor Pavilion",
+      "Drinking Fountains"
+    ],
+    "accessibilityInfo": "The Hanguana Trail is a barrier-free raised wooden boardwalk gently winding through marshland. The Drongo Trail leads to a scenic sub-canopy walkway.",
+    "imageUrl": "https://images.unsplash.com/photo-1511497584788-87676104235f?auto=format&fit=crop&w=1200&q=80",
+    "openingHours": "7:00 AM – 7:00 PM daily",
+    "directionsUrl": "https://maps.google.com/?q=Windsor+Nature+Park+Singapore",
+    "sizeHectares": 75,
+    "highlights": [
+      "Hanguana Trail Boardwalk",
+      "Drongo Sub-canopy Walk",
+      "Freshwater Stream Restoration",
+      "Squirrel Trail"
+    ],
+    "nativeFloraFauna": [
+      "Hanguana rubescens",
+      "Common Blue Glider Dragonfly",
+      "Stork-billed Kingfisher",
+      "Flying Lizard"
+    ]
+  },
+  {
+    "id": "dairy-farm",
+    "name": "Dairy Farm Nature Park",
+    "category": "Nature Trails",
+    "region": "West",
+    "coordinates": [
+      1.3639,
+      103.7744
+    ],
+    "shortDescription": "Former cow farm converted into an ecological park with dramatic Singapore Quarry wetlands.",
+    "description": "A 63-hectare park with rich agricultural and geology history. A former Friesian cow dairy farm established in the 1930s, it now features the Wallace Education Centre with interactive exhibits on Alfred Russel Wallace, and the dramatic Singapore Quarry—a flooded granite quarry against sheer cliff faces hosting wetland birds.",
+    "amenities": [
+      "Restrooms",
+      "Wallace Education Centre",
+      "Shelters",
+      "Rock Climbing Wall",
+      "Mountain Bike Trails",
+      "Bicycle Racks"
+    ],
+    "accessibilityInfo": "Paved road leading to the Singapore Quarry viewing platform is barrier-free and flat. Wallace Trail has natural earth steps.",
+    "imageUrl": "https://images.unsplash.com/photo-1544979590-37e9b47eb705?auto=format&fit=crop&w=1200&q=80",
+    "openingHours": "7:00 AM – 7:00 PM daily",
+    "directionsUrl": "https://maps.google.com/?q=Dairy+Farm+Nature+Park+Singapore",
+    "sizeHectares": 63,
+    "highlights": [
+      "Wallace Environmental Learning Lab",
+      "Singapore Quarry Lookout",
+      "Dairy Farm Loop",
+      "Mountain Biking Skills Area"
+    ],
+    "nativeFloraFauna": [
+      "Little Grebe",
+      "Dollarbird",
+      "Wallace’s Golden Birdwing Butterfly",
+      "Wild Fig"
+    ]
+  }
+]
